@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+PTN/__init__.py
+PTN/parse.py
+PTN/patterns.py
+parse_torrent_name.egg-info/PKG-INFO
+parse_torrent_name.egg-info/SOURCES.txt
+parse_torrent_name.egg-info/dependency_links.txt
+parse_torrent_name.egg-info/top_level.txt
+tests/files/input.json
+tests/files/output.json

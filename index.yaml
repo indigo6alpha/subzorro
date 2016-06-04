@@ -1,0 +1,6 @@
+indexes:
+- kind: LookEntry
+  ancestor: yes
+  properties:
+  - name: date
+    direction: desc

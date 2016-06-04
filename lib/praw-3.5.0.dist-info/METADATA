@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: praw
+Version: 3.5.0
+Summary: PRAW, an acronym for `Python Reddit API Wrapper`, is a python package that allows for simple access to reddit's API.
+Home-page: https://praw.readthedocs.org/
+Author: Bryce Boe
+Author-email: bbzbryce@gmail.com
+License: GPLv3
+Requires-Dist: decorator (>=4.0.9,<4.1)
+Requires-Dist: requests (>=2.3.0)
+Requires-Dist: six (==1.10)
+Requires-Dist: update-checker (==0.11)
+
+.. _main_page:
+
+
